@@ -1,0 +1,13 @@
+{
+  "model": "openai/gpt-oss-20b",
+  "temperature": 0,
+  "seed": 7,
+  "reasoning_effort": "low",
+  "llm_calls": 19,
+  "cache_hits": 0,
+  "input_tokens": 4084,
+  "output_tokens": 1968,
+  "cost_usd_at_published_rate": 0.000897,
+  "candidates": 19,
+  "retrieval_backend": "chromadb"
+}
