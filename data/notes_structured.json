@@ -1,0 +1,12 @@
+{
+  "N001": {"routes": ["Chennai-Bangalore"], "scope": "route", "effect": "increase", "start": "2025-02-24", "end": "2025-03-08", "magnitude_pct": null, "evidence": "flooding ... Feb 24 to Mar 8 ... higher trip costs. Roads passable again by Mar 9."},
+  "N002": {"routes": ["Ahmedabad-Mumbai"], "scope": "route", "effect": "increase", "start": "2025-01-20", "end": "2025-01-26", "magnitude_pct": null, "evidence": "festival week ... temporary surcharge ... Ahmedabad-Mumbai corridor"},
+  "N003": {"routes": [], "scope": "all", "effect": "increase", "start": "2025-05-05", "end": null, "magnitude_pct": [5, 7], "evidence": "Diesel prices rose nationwide starting this week ... all routes by roughly 5-7%"},
+  "N004": {"routes": [], "scope": "none", "effect": "none", "start": "2024-03-11", "end": null, "magnitude_pct": null, "evidence": "new toll plaza ... affected routes are not part of this dataset"},
+  "N005": {"routes": ["Mumbai-Delhi"], "scope": "route", "effect": "none", "start": "2024-07-29", "end": "2024-08-04", "magnitude_pct": null, "evidence": "minor delays ... costs were not significantly affected"},
+  "N006": {"routes": [], "scope": "all", "effect": "none", "start": "2025-09-22", "end": null, "magnitude_pct": null, "evidence": "demand ... remained stable ... no major disruptions"},
+  "N007": {"routes": ["Delhi-Jaipur"], "scope": "route", "effect": "decrease", "start": "2024-05-20", "end": null, "magnitude_pct": null, "evidence": "improved road conditions after resurfacing"},
+  "N008": {"routes": ["Kolkata-Bhubaneswar"], "scope": "route", "effect": "none", "start": "2025-06-09", "end": null, "magnitude_pct": null, "evidence": "No significant disruptions ... freight movement remained normal"},
+  "N009": {"routes": ["Chennai-Bangalore"], "scope": "route", "effect": "none", "start": "2025-03-17", "end": null, "magnitude_pct": null, "evidence": "returned to normal conditions after flood-related repairs"},
+  "N010": {"routes": [], "scope": "all", "effect": "none", "start": "2025-10-27", "end": null, "magnitude_pct": null, "evidence": "compliance costs were absorbed by transporters without a rate change"}
+}
