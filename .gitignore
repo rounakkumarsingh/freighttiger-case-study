@@ -1,0 +1,5 @@
+.venv/
+.env
+out/llm_cache.json
+__pycache__/
+.pytest_cache/
